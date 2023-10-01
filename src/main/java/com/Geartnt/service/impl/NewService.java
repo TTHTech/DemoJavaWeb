@@ -1,4 +1,6 @@
 package com.Geartnt.service.impl;
 
-public class NewService {
+import com.Geartnt.service.INewService;
+
+public class NewService implements INewService {
 }

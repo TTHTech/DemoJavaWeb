@@ -10,13 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ce00fd-cab5-4699-8c21-73d9dcc81b01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/service/INewService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/dao/ICategoryDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/dao/impl/CaterogyDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/CategoryModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/CategoryModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/CommentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/CommentModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/NewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/NewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/RoleModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/model/RoleModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Geartnt/service/impl/NewService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Geartnt/service/impl/NewService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -225,7 +225,14 @@
       <workItem from="1695554071079" duration="1118000" />
       <workItem from="1695641110774" duration="45000" />
       <workItem from="1695650556586" duration="2591000" />
-      <workItem from="1695674254488" duration="376000" />
+      <workItem from="1695674254488" duration="3967000" />
+      <workItem from="1695693233042" duration="642000" />
+      <workItem from="1695697226851" duration="420000" />
+      <workItem from="1695697657567" duration="133000" />
+      <workItem from="1695706341876" duration="410000" />
+      <workItem from="1696032877807" duration="57000" />
+      <workItem from="1696162363751" duration="5324000" />
+      <workItem from="1696187769101" duration="2574000" />
     </task>
     <servers />
   </component>
